@@ -1,5 +1,6 @@
 
-Notes from talk at Inercia 2024
+
+Quick notes/links for talk at Inercia 2024
 
 -----
 
@@ -21,7 +22,7 @@ Have you ever tried to develop tools for reusability?
 for was actually a lot less general than you imagined?  
 
 
-![](learning.jpg "drake meme: accept that you cannot evaluate "generality", and reduce tool building focus OR try harder, try wider, try weirder, perhaps the next system will be better?")
+![](learning.jpg)
 
 
 
